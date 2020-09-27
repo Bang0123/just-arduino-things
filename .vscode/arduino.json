@@ -1,0 +1,4 @@
+{
+    "sketch": "SoS-beacon\\SoS-beacon.ino",
+    "board": "arduino:avr:uno"
+}
