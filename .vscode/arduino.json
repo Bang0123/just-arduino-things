@@ -1,4 +1,5 @@
 {
-    "sketch": "SoS-beacon\\SoS-beacon.ino",
-    "board": "arduino:avr:uno"
+    "sketch": "traffic-light\\traffic.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
 }
