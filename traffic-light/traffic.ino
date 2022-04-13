@@ -6,12 +6,12 @@
 // Light LEDs
 
 // Intersection
-int greenLed1 = 10; // no work
+int greenLed1 = 10;
 int yellowLed = 11;
 int redLed1 = 12;
 
 // crosswalk
-int greenLed2 = 7; // no work
+int greenLed2 = 7;
 int redLed2 = 8;
 
 // switch read pin
